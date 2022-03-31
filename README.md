@@ -1,5 +1,7 @@
 구두와 운동화를 구분할 수 있는 이미지 모델.
 
+[바로 실행](https://vermillion-bubblegum-4500fd.netlify.app/)
+
 # 실행법
 Windows  기준.
 1. [릴리즈](https://github.com/nabuno/image-model/releases) 다운로드.
